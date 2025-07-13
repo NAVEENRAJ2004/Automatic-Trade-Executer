@@ -3,8 +3,8 @@ import { KiteConnect } from "kiteconnect";
 const now = new Date();
 const hours = now.getHours();
 
-const apiKey = "lxg58qjs9hnjys5h";
-let accessToken = "j0GhKrWkqpXwWQRAsGTXa6ZcaohPIeul";
+const apiKey = "Your_api_key";
+let accessToken = "Your_access_token";
 
 const kc = new KiteConnect({ api_key: apiKey });
 
